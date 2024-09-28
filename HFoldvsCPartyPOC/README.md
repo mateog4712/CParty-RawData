@@ -1,3 +1,5 @@
 # CParty-MFE vs HFold Proof of Concept
 
 We have included the proof of concept results for CParty-MFE vs HFold within this folder. The fasta file contains sequences taken from RNAstrand which were density-2. The structures in the two folders structures/ and structuresH/ are the G_small of the structure relating to the sequences. That is, if the structure was split into two planes such that they were pseudoknot-free, G_small is the bottom half or small portion of base pairs. The folders structures/ and structuresH/ are separate as HFold treats '_' as unpaired bases while CParty uses '.'. The folders HFold/ and CParty/ contain the results of running HFold and CParty-MFE on the fasta file and structure inputs. The bash file is what was used to get the results.
+
+The file count_correct.cc compares the results of CParty vs HFold. You can generate the file to be run through the command "g++ count_correct.cc -o name_of_output". We found all energies between the two to be the same and 913/945 structures to be the same, where the differing structures are alternates.

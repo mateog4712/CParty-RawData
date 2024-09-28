@@ -12,8 +12,8 @@
 
 int main(int argc,char **argv) {
 
-    std::string file1 = "/Users/mateo2/Documents/Code/CParty-RawData/HFoldvsCPartyPOC/CParty/rnastrandSmall.txt";
-    std::string fileH1 = "/Users/mateo2/Documents/Code/CParty-RawData/HFoldvsCPartyPOC/HFold/rnastrandSmall.txt";
+    std::string file1 = "CParty/rnastrandSmall.txt";
+    std::string fileH1 = "HFold/rnastrandSmall.txt";
 
 
     std::vector<std::string> structures1;
@@ -93,7 +93,6 @@ int main(int argc,char **argv) {
             needsToBeChecked.push_back(i);
         }
     }
-    std::cout << needsToBeChecked[0] << std::endl;
     printf("%d/%d have the same energy and %d/%d have the same structure\n",count,n,countS,n);
 
 return 0;
