@@ -1,0 +1,48 @@
+GCCGGGGUGGCCGAGCGGUCUAAGGCGGCGGGCUGCAGACCCGUUAGUUCCCGGGUUCGAAUCCCGGCCCCGGCUCCA
+(((((((..(((...........)))((((((.......)))))).....(((((.......)))))))))))).... (-35.6) {-36.8545}
+GCCGCGGUAGUAUAGCCUGGACUAGUAUGCGGGCCUGUCAAGCCCGUGACCCGGGUUCAAAUCCCGGCCGCGGCGCCA
+(((((((..((((((......)).))))((((((.......))))))...(((((.......)))))))))))).... (-33.2) {-37.316}
+UUCUCGGUAGUAUAGUGGUUAGUAUACCCGCCUGUCACGCGGGUGACCCGGGUUCAUUUCCCGGCCGGGAAG
+(((((((..((((........))))((((((.......))))))...(((((.......)))))))))))). (-26.5) {-28.1881}
+GCCCCCGUGGUGUAGCCAGGUCUAGCAUACGGGGUUCUCGUCCCCGUGACCCGGGUUCAAAUCCCGGCGGGGGCACCA
+(((((((..((((((......)).))))((((((.......))))))...(((((.......)))))))))))).... (-36.1) {-39.8094}
+UCCGAUGUGGUAUAGUGGAUAGAACAAGCGGCUCUCACCCGCUAGACCCGGGUUCGAUCCCCGGCAUCGGAA
+(((((((..((.(........).)).(((((.......)))))....(((((.......)))))))))))). (-20.5) {-21.447}
+GCCGGCUUAGCUCAGUUGGUUAGAGCGCUAGAUUGUGGAUCUAGAGGUCCUCGGUUCGAGCCCGAGAGCUGGUACCA
+(((((((..((((.........)))).(((((((...))))))).....(((((.......)))))))))))).... (-26.3) {-31.4893}
+GCGGUUGUAGCUCAGUUGGUUAGAGCGCAGGUUUGUGGCACCUGAGGUCGGAGGUUCGAUCCCCCCCAACCGUACCA
+(((((((..((((.........)))).(((((.......))))).....((.((.......)).))))))))).... (-20.8) {-25.7555}
+GGGCCGGUGGCUCAGCCUGGUUAGAGCGGCGGGCUCUUAACCCGCAGGUCCGGGGUUCGAAUCCCCGCCGGCCCGCCA
+(((((((..(((((((...))).)))).(((((.......))))).....(((((.......)))))))))))).... (-39.1) {-40.8}
+GGGCCCGUAGCUCAGCCCGGCAGAGCGGCGGGCUUUUACCCCGCGGAAGGUCCCGGGUUCAAAUCCCGGCGGGCCCGCCA
+(((((((..((((.((...)).)))).(((((.......)))))........(((((.......)))))))))))).... (-39.8) {-40.1005}
+GGGCCCGUAGCUCAGCCUGGUAGAGCGGCGGGCUCUUAACCCGCGAGGGAGGAAGUCCCGGGUUCAAAUCCCGGCGGGCCCGCCA
+(((((((..((((.........)))).(((((.......))))).............(((((.......)))))))))))).... (-38.2) {-40.1674}
+GCCGCCGUAGCUCAGCCUGGCAGAGCGCCGGACUCAUAAUCCGGAGGUCCCGGGUUCGAAUCCCGGCGGCGGCACCA
+(((((((..((((.((...)).)))).(((((.......))))).....(((((.......)))))))))))).... (-37.1) {-37.265}
+GGGCCCGUAGCUCAGCCAGGUAGAGCGCCCGGCUCAUAACCGGGUGGUCGGGGGUUCAAAUCCCCCCGGGCCCACCA
+(((((((..((((.........))))((((((.......))))))....(((((.......)))))))))))).... (-40.5) {-42.179}
+GGGCGUUUGGGGCAGUCGGUAGCCCGUGGGUCUCAUAAUCCCAAGGUCGCGAGUUCGAUCCUCGCAGUGCCCA
+(((((((..((((........)))).((((.........)))).....(((((.......)))))))))))). (-25.4) {-25.5332}
+GGGCCCGUCGUCUAGCCUGGCUAAGAUGCGGGGUACGGGACCCCGUGGUCCGGGGUUCAAAUCCCCGCGGGCCCACCA
+(((((((..(((((((...))).))))(((((((.....)))))))....(((((.......)))))))))))).... (-40.6) {-41.5459}
+GGGGCCGUCGUCUAGCCUGGCUAGGAUGCCAGCCUGGGGCGCUGGUGGUCCCGGGUUCAAAUCCCGGCGGCCCCACCA
+(((((((..(((((((...))).))))((((((.......))))))....(((((.......)))))))))))).... (-37) {-38.4927}
+AGCCCCGUGGUGUAGCGGCCUAGCAUGCGGGGUUUUGGUCCCCGUGACCCCGGUUCGAAUCCGGGCGGGGCUACCA
+(((((((..((((((....)).))))((((((.......))))))...(((((.......)))))))))))).... (-33.4) {-37.1457}
+GGGCCCGUAGCUCAGCCAGGACAGAGCGCCGGCCUUCUAAGCCGGUGCUGCCGGGUUCAAAUCCCGGCGGGCCCGCCA
+(((((((..((((..........))))((((((.......))))))....(((((.......)))))))))))).... (-39.6) {-40.2964}
+GCCGCCGUAGCUCAGCGGUAGAGCGCCGGCCUCGUAAGCCGGUGGUCGCGGGUUCGAAUCCCGCCGGCGGCUCCA
+(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-38.8) {-39.3091}
+GGCCGCUUAGCACAGUGGCAGUGCACCACUCUCGUAAAGUGGGGGUCGCGAGUUCGAUUCUCGCAGUGGCCU
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))). (-29.2) {-29.2844}
+GGGGCCGUAGCUCAGCCAGGCAGAGCGGCGGGCUCCAGACCCGUAGGUCGGGGGUUCGAAUCCCCCCGGCCCCACCA
+(((((((..((((.((...)).)))).(((((.......))))).....(((((.......)))))))))))).... (-39.5) {-39.969}
+AGGGGUAUAGCUCAGUUGGUAGAGCGGCGGUCUCCAAAACCGCAGGUCGGGGGUUCGAGCCCCUCUGCCCCUGCCA
+(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).... (-29.1) {-33.3421}
+CGCGGGGUGGGGCAGCCUGGAGUGCCCGGGGGGCUCAUAACCCCCAGGUCCCCGGUUCAAAUCCGGGCCCCGCGUCCA
+(((((((..(((((........))))).(((((.......))))).....(((((.......)))))))))))).... (-41.7) {-42.6412}
+AGCACCGUAGCUCAGUGGGAGAGUGGGGGGCUCAUAACCCCCAGGUCCAUGGAUCGAAACCAUGCGGUGCUA
+(((((((..((((.......)))).(((((.......))))).....(((((.......)))))))))))). (-27.7) {-27.9667}
+CCCGCCGUAGCUCAGCGGCAGAGCGCCCGGCUGUACACCGGGUGGUCCGGGGUUCGAAUCCCCGCGGCGGGACCA
+(((((((..((((.......))))((((((.......))))))....(((((.......)))))))))))).... (-38.2) {-38.8243}

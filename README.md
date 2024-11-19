@@ -8,7 +8,7 @@ HFoldvsCPartyPOC contains the proof of concept results for the comparison of CPa
 
 #### PseudoknotFreePOC
 
-PseudoknotFreePOC contains the proof of concept results for the comparision between CParty and and RNAFold's partition function when looking at pseudoknot-free structure. Each program was given an empty structure as input. This ensures that CParty is calculating the partition function for only pseudoknot-free structures as well.
+PseudoknotFreePOC contains the proof of concept results for the comparision between CParty and and RNAFold's partition function when looking at pseudoknot-free structures. Within the folder. EmptyInput, each program was given an empty structure as input. This ensures that CParty is calculating the partition function for only pseudoknot-free structures as well. Within the folder, FullInput, each program was given the full reference structure as input. This shows that CParty is not predicting pseudoknots in structures which do not contain them.
 
 #### TimeAndSpace
 
